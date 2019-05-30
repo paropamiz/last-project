@@ -27,6 +27,7 @@
   nav {
     width: 100%;
     grid-column: 3 / -1;
+    
     ul {
       list-style-type: none;
       li {
@@ -39,14 +40,14 @@
           text-decoration: none;
           margin:20px 30px;
           font-weight:800;
-          font-size: 15px;
+          font-size: 20px;
           padding: 70px 50px 0 0;
           @media screen and (max-width:1200px){
             padding: 0 .6rem;
          }
          @media screen and (max-width:900px){
           padding: 0 2px;
-          font-size: 13px;
+          font-size: 18px;
        } 
           &:hover {
             color: #ffb400;

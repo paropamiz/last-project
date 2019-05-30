@@ -24,7 +24,7 @@ footer{
       height:50px;
       margin: 0px 20px;
       border-radius: 100%;
-      background: #026796;
+      background: $gray-4;
       &:hover{
         background: #ffb400;
       }
@@ -55,9 +55,9 @@ footer{
     margin: 20px 15px;
      a{
        font-family: arial;
-       font-size:18px;
+       font-size:14px;
        font-weight: 600;
-       color: #026796;
+       color: $gray-4;
        text-transform: uppercase;
        text-decoration: none;
        letter-spacing: 2px;
@@ -73,7 +73,7 @@ footer{
   width: 100%;
   height: auto;
   margin: auto;
-  background: #026796;
+  background: $gray-4;
   padding: 10px;
   p{
   font-family: arial;
